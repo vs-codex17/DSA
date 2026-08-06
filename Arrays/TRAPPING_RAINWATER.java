@@ -23,6 +23,7 @@ public class TRAPPING_RAINWATER {
             rightmax[j]= Math.max(height[j],rightmax[j+1] );
         }
 
+
         // print using loop        trapped water= (water level - bar level) * width
 
         int Total_Water= 0;
