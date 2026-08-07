@@ -2,6 +2,7 @@ package Arrays;
 
 public class Best_time_To_Sell_Buy_Stock {
     public static int stock(int prices[]){
+
         int buyprice = Integer.MAX_VALUE;
         int maxprofit = 0;
 
