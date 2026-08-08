@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Problems_Leetcode;
 
 public class TRAPPING_RAINWATER {
     public static void rainwater(int height[]){

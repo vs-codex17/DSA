@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Problems_Leetcode;
 
 public class Best_time_To_Sell_Buy_Stock {
     public static int stock(int prices[]){
