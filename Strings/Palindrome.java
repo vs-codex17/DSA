@@ -1,4 +1,4 @@
-package Arrays.Problems_Leetcode;
+package Strings;
 
 public class Palindrome {
     public static boolean Palindrome(String str){
