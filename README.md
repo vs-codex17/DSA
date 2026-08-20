@@ -140,7 +140,7 @@ Currently focusing on **Java, DSA, SQL ** and working towards improving my progr
 
 ### 🔗 Connect With Me
 
-* GitHub: [@vs-codex17](https://github.com/vs-codex17)
+* GitHub: [@vs-codex24](https://github.com/vs-codex24)
 
 ---
 
